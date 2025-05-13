@@ -1,7 +1,6 @@
 body { 
     font-family: Arial, sans-serif; 
     text-align: center; 
-    padding: 30px; 
 }
 
 div{
@@ -18,5 +17,5 @@ button {
     font-size: 20px; 
     font-weight: bold; 
     background-color: blueviolet;
-    width: 30%;
+    border-radius: 5px;
 }
