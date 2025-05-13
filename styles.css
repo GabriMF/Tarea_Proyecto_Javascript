@@ -1,0 +1,22 @@
+body { 
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+    padding: 30px; 
+}
+
+div{
+    background-color: blue;
+}
+
+button { 
+    padding: 10px 20px; 
+    font-size: 16px; 
+}
+
+#excusa { 
+    margin-top: 20px; 
+    font-size: 20px; 
+    font-weight: bold; 
+    background-color: blueviolet;
+    width: 30%;
+}
