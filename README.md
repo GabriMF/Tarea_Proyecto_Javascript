@@ -35,4 +35,4 @@ El objetivo de este trabajo es aplicar conocimientos de la asignatura **Lenguaje
 
 ## ✍️ Autor
 
-Página hecha por **Gabriel Méndez** como parte del módulo de *Lenguaje de Marcas*, curso 2025.
+Página hecha por **Gabriel Méndez** como parte del módulo *Lenguaje de Marcas*, curso 2025.
