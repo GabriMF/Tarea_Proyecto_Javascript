@@ -1,21 +1,73 @@
 body { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(105, 180, 180);
     font-family: Arial, sans-serif; 
     text-align: center; 
 }
+header{
+    position: fixed;
+    background-color: rgb(85, 0, 141);
+    border-radius: 25px;
+    box-shadow: 0px 5px 5px rgb(126, 0, 0);
+    color: rgb(223, 206, 206);
+    width: 80vw;
+}
 
-div{
-    background-color: blue;
+main{
+    background-color: #a114ff;
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px 10px black;
+    width: 80vw;
+    font-size: 20px;
+    height: 96vh;
+}
+#mainContent{
+    margin-top: 15vh;
+}
+footer{
+    background-color: rgb(108, 0, 141);
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px 5px rgb(126, 0, 0);
+    color: rgb(223, 206, 206);
+    position: fixed;
+    width: 80vw;
+    bottom: 5px;
+    
 }
 
 button { 
+    background-color: rgb(175, 223, 0);
     padding: 10px 20px; 
     font-size: 16px; 
+    width: 15vw;
+    height: 8vh;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 5px rgb(60, 0, 95);
 }
-
-#excusa { 
-    margin-top: 20px; 
+button:hover{
+    background-color: rgb(255, 251, 0);
+    padding: 10px 20px; 
     font-size: 20px; 
+    width: 17vw;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 10px rgb(60, 0, 95);
+}
+#excusaDiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 2vh; 
+    margin-left: 10vw;
+    background-color: #af38ff;
+    
+    width: 60vw;
+    border-radius: 15px;
+}
+#excusa { 
+    font-size: 25px; 
     font-weight: bold; 
-    background-color: blueviolet;
     border-radius: 5px;
+    /* width: 60vw; */
+    
 }
