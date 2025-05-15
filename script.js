@@ -18,7 +18,8 @@ const sujetos = [
         "Un influencer",
         "Un Criptobro",
         "Un cayetano",
-        "Vladimir Putin"
+        "Vladimir Putin",
+        "El último dodo"
     ];
 
     const acciones = [
@@ -53,7 +54,6 @@ const sujetos = [
         "mi DNI",
         "mi comida",
         "unos misiles",
-        "a mi persona",
         "un dardo"
     ];
 
